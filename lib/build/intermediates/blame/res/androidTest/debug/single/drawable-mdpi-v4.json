@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Ansh\\Documents\\Projects\\cloudinary_android\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Android\\.android\\build-cache\\49814f25678e105f08a956f7560d5eeecdac5c1d\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\Documents\\Projects\\cloudinary_android\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Android\\.android\\build-cache\\49814f25678e105f08a956f7560d5eeecdac5c1d\\output\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\Documents\\Projects\\cloudinary_android\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Android\\.android\\build-cache\\49814f25678e105f08a956f7560d5eeecdac5c1d\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\Documents\\Projects\\cloudinary_android\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Android\\.android\\build-cache\\49814f25678e105f08a956f7560d5eeecdac5c1d\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ansh\\Documents\\Projects\\cloudinary_android\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Android\\.android\\build-cache\\49814f25678e105f08a956f7560d5eeecdac5c1d\\output\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]
